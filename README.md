@@ -6,13 +6,13 @@
 
 ---
 
-# ‹SITE-TITLE› website
+# Your Showcase website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/‹SITE-UUID›/deploy-status)](https://app.netlify.com/sites/‹SITE-NAME›/deploys) ⟵ `TODO`: update ‹SITE-UUID› and ‹SITE-NAME›
 
 # Access
 
-* [`‹SITE-URL›/{fr,en}/`](https://‹SITE-URL›/en/) ⟵ since public launch;
+* [`your-showcase.hestialabs.org/{fr,en}/`](https://‹SITE-URL›/en/) ⟵ since public launch;
 * [`‹SITE-NAME›.netlify.app/{fr,en}/`](https://‹SITE-NAME›.netlify.app/en/) ⟵ for development, prior to public launch.
 
 # Features
@@ -22,10 +22,10 @@
 - Static publication system with [Eleventy](https://11ty.dev)
 - Authentication/authorization with [Netlify Identity](https://app.netlify.com/sites/hestialabs/identity)
 - Hosting and CDN with [Netlify Hosting](https://app.netlify.com/sites/hestialabs/overview)
-- [Static homepage](https://‹SITE-URL›/en/) & site specific pages
-- [Blog system](https://‹SITE-URL›/en/blog/)
-- [Contact form](https://‹SITE-URL›/en/about/#contact), with Netlify Forms
-- [Newsletter sign-up form](https://‹SITE-URL›/en/#newsletter), with Netlify Forms
+- [Static homepage](https://your-showcase.hestialabs.org/en/) & site specific pages
+- [Blog system](https://your-showcase.hestialabs.org/en/blog/)
+- [Contact form](https://your-showcase.hestialabs.org/en/about/#contact), with Netlify Forms
+- [Newsletter sign-up form](https://your-showcase.hestialabs.org/en/#newsletter), with Netlify Forms
 
 # How-to?
 
