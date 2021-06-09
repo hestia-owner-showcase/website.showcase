@@ -8,7 +8,7 @@
 
 # Your Showcase website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/‹SITE-UUID›/deploy-status)](https://app.netlify.com/sites/your-showcase/deploys) ⟵ `TODO`: update ‹SITE-UUID› and your-showcase
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f27ea173-43ce-4027-a015-a9574c8a0623/deploy-status)](https://app.netlify.com/sites/your-showcase/deploys)
 
 # Access
 
