@@ -8,12 +8,12 @@
 
 # Your Showcase website
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/‹SITE-UUID›/deploy-status)](https://app.netlify.com/sites/‹SITE-NAME›/deploys) ⟵ `TODO`: update ‹SITE-UUID› and ‹SITE-NAME›
+[![Netlify Status](https://api.netlify.com/api/v1/badges/‹SITE-UUID›/deploy-status)](https://app.netlify.com/sites/your-showcase/deploys) ⟵ `TODO`: update ‹SITE-UUID› and your-showcase
 
 # Access
 
-* [`your-showcase.hestialabs.org/{fr,en}/`](https://‹SITE-URL›/en/) ⟵ since public launch;
-* [`‹SITE-NAME›.netlify.app/{fr,en}/`](https://‹SITE-NAME›.netlify.app/en/) ⟵ for development, prior to public launch.
+* [`your-showcase.hestialabs.org/{fr,en}/`](https://your-showcase.hestialabs.org/en/) ⟵ since public launch;
+* [`your-showcase.netlify.app/{fr,en}/`](https://your-showcase.netlify.app/en/) ⟵ for development, prior to public launch.
 
 # Features
 
@@ -39,8 +39,8 @@
 
 The website is made of two major deliverables, whose sources are available in this repository:
 
-1. [WEBSITE](https://‹SITE-NAME›.netlify.app): publicly accessible website of HestiaLabs, in french and english;
-2. [CMS](https://‹SITE-NAME›.netlify.app/admin/): our content-authoring system (_aka_ [Netlify CMS](https://www.netlifycms.org)) web app, accessible thru invite only.
+1. [WEBSITE](https://your-showcase.netlify.app): publicly accessible website of HestiaLabs, in french and english;
+2. [CMS](https://your-showcase.netlify.app/admin/): our content-authoring system (_aka_ [Netlify CMS](https://www.netlifycms.org)) web app, accessible thru invite only.
 
 ## Repository structure
 
