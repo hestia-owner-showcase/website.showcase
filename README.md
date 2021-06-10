@@ -1,12 +1,4 @@
-> Template repository, with code and issues common to every new ‹data community› website, meant to be forked to create new websites.
->
-> 🎯 To create a new website based on this template repository, follow the step-by-step guide [«How-to create a new website from WEBSITE.TEMPLATE»](https://github.com/hestiaAI/website.docs/tree/main/website-new) in the [`WEBSITE.DOCS`](https://github.com/hestiaAI/website.docs/) repository.
->
-> 💡 To report issues about this template repository itself, or to understand why it's not owned by the [@hestiaAI](https://github.com/hestiaAI) org, please head to the [WEBSITE.TEMPLATE.factory](https://github.com/hestiaAI/website.template.factory) repository.
-
----
-
-# Your Showcase website
+# ‹Your Showcase› website
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/f27ea173-43ce-4027-a015-a9574c8a0623/deploy-status)](https://app.netlify.com/sites/your-showcase/deploys)
 
