@@ -36,8 +36,11 @@ permalink: /en/index.html
 mission_link_text: Learn more
 partners_link_text: Contact us
 news_title: News and events
-news_editorials:
-  - dating-apps-share-your-data
-news_interviews:
-  - interview-de-jessica-pidoux-journal-le-temps
+news:
+  - type: infographic
+    infographic: what-bumble-collects-about-you
+  - type: editorial
+    editorial: dating-apps-share-your-data
+  - type: interview
+    interview: interview-de-jessica-pidoux-journal-le-temps
 ---
