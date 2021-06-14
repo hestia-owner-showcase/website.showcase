@@ -1,4 +1,6 @@
 ---
+layout: home
+permalink: /en/index.html
 title: Your Showcase
 community_title: We are a collective of users
 partners_title: We connect with many partners
@@ -23,18 +25,17 @@ mission_description: >-
 
 
   Our ultimate goal is to bring together users and privacy enthusiasts to push for a paradigm shift.
+mission_link_text: Learn more
+partners_title: We connect with many partners
 partners_description: >-
   We are looking to collaborate with journalists, academics, researchers,
   activists and NGOs in data protection and other related themes.
 
 
   We push ideas for better user and company practices to control personal data and date safely online. We are particularly interested in raising awareness, as well as building methodological protocols and privacy tools for data protection and literacy.
+partners_link_text: Contact us
 news_infographics:
   - what-bumble-collects-about-you
-layout: home
-permalink: /en/index.html
-mission_link_text: Learn more
-partners_link_text: Contact us
 news_title: News and events
 news:
   - type: infographic

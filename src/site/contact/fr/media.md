@@ -2,7 +2,7 @@
 id: media
 layout: contact
 title: Media contact
-subject: ""
+subject: Media matters
 form_name: contact-showcase-media
 lead: "Contact for **journalists**"
 lead_image: /assets/media/contact-hero-image.jpg

@@ -1,7 +1,7 @@
 ---
 id: partners
-title: Partnership contact
 layout: contact
+title: Partnership contact
 subject: Partnership
 form_name: contact-showcase-partners
 lead: "Contact us about a **partnership**"
