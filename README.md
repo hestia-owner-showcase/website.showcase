@@ -4,8 +4,8 @@
 
 # Access
 
-* [`your-showcase.hestialabs.org/{fr,en}/`](https://your-showcase.hestialabs.org/en/) ⟵ since public launch;
-* [`your-showcase.netlify.app/{fr,en}/`](https://your-showcase.netlify.app/en/) ⟵ for development, prior to public launch.
+* [`showcase.hestialabs.org/{fr,en}/`](https://showcase.hestialabs.org/en/) ⟵ since public launch;
+* [`hestialabs-showcase.netlify.app/{fr,en}/`](https://hestialabs-showcase.netlify.app/en/) ⟵ for development, prior to public launch.
 
 # Features
 
@@ -14,10 +14,10 @@
 - Static publication system with [Eleventy](https://11ty.dev)
 - Authentication/authorization with [Netlify Identity](https://app.netlify.com/sites/hestialabs/identity)
 - Hosting and CDN with [Netlify Hosting](https://app.netlify.com/sites/hestialabs/overview)
-- [Static homepage](https://your-showcase.hestialabs.org/en/) & site specific pages
-- [Blog system](https://your-showcase.hestialabs.org/en/blog/)
-- [Contact form](https://your-showcase.hestialabs.org/en/about/#contact), with Netlify Forms
-- [Newsletter sign-up form](https://your-showcase.hestialabs.org/en/#newsletter), with Netlify Forms
+- [Static homepage](https://showcase.hestialabs.org/en/) & site specific pages
+- [Blog system](https://showcase.hestialabs.org/en/blog/)
+- [Contact form](https://showcase.hestialabs.org/en/about/#contact), with Netlify Forms
+- [Newsletter sign-up form](https://showcase.hestialabs.org/en/#newsletter), with Netlify Forms
 
 # How-to?
 
@@ -32,8 +32,8 @@
 
 The website is made of two major deliverables, whose sources are available in this repository:
 
-1. [WEBSITE](https://your-showcase.netlify.app): publicly accessible website of HestiaLabs, in french and english;
-2. [CMS](https://your-showcase.netlify.app/admin/): our content-authoring system (_aka_ [Netlify CMS](https://www.netlifycms.org)) web app, accessible thru invite only.
+1. [WEBSITE](https://hestialabs-showcase.netlify.app): publicly accessible website of HestiaLabs, in french and english;
+2. [CMS](https://hestialabs-showcase.netlify.app/admin/): our content-authoring system (_aka_ [Netlify CMS](https://www.netlifycms.org)) web app, accessible thru invite only.
 
 ## Repository structure
 
