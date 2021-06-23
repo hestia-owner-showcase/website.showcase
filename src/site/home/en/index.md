@@ -2,14 +2,13 @@
 layout: home
 permalink: /en/index.html
 title: Your Showcase
-community_title: We are a collective of users
-partners_title: We connect with many partners
 path: home
 lead: Let's create **Your Showcase**
 lead_image: /assets/media/home-hero-image.jpg
 lead_image_caption: Photo by [Mary Eineman](https://unsplash.com/@maryeineman)
   on [Unsplash](https://unsplash.com/photos/sQtGjRSOyGk)
 paragraph1_title: We define a new relationship to data
+community_title: We are a collective of users
 community_description: "Your Showcase is you and me: app users and people keen
   to understand privacy in relationships formed online. The collective is
   worried about the way our intimate life is being coded and exposed online. We
@@ -39,9 +38,9 @@ news_infographics:
 news_title: News and events
 news:
   - type: infographic
-    infographic: what-bumble-collects-about-you
+    post: what-bumble-collects-about-you
   - type: editorial
-    editorial: dating-apps-share-your-data
+    post: dating-apps-share-your-data
   - type: interview
-    interview: interview-de-jessica-pidoux-journal-le-temps
+    post: interview-de-jessica-pidoux-journal-le-temps
 ---
