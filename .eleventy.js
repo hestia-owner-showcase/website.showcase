@@ -2,7 +2,8 @@
 // https://www.11ty.dev/docs/config/
 /* eslint-env node */
 
-const { buildLocalesCollection, formatDate} = require('./conf/11ty/locales');
+const { buildLocalesCollection, formatDate, getLocalizedOrDefault} =
+      require('./conf/11ty/locales');
 const { buildPosts } = require('./conf/11ty/blogPosts');
 const { backgroundImage } = require('./conf/11ty/backgroundImage')
 const { creditedImage } = require('./conf/11ty/creditedImage')
@@ -20,6 +21,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy({"src/admin": "admin"});
   eleventyConfig.addPassthroughCopy({"src/assets": "assets"});
   eleventyConfig.addPassthroughCopy({"src/site/_data/i18n/assets/": "assets/i18n" });
+  eleventyConfig.addPassthroughCopy({"src/site/_data/data/assets/": "assets/data" });
   eleventyConfig.addPassthroughCopy("src/site/favicon*");
   eleventyConfig.addPassthroughCopy("src/site/manifest.json");
   eleventyConfig.addPassthroughCopy("src/site/robots.txt");
@@ -29,6 +31,7 @@ module.exports = function (eleventyConfig) {
   eleventyConfig.addCollection("locales", buildLocalesCollection);
   eleventyConfig.addCollection("blogPosts", buildPosts);
 
+  eleventyConfig.addFilter("getLocalizedOrDefault", getLocalizedOrDefault);
   eleventyConfig.addFilter("readableDate", formatDate);
   eleventyConfig.addFilter("backgroundImage", backgroundImage);
   eleventyConfig.addShortcode("creditedImage", creditedImage);
