@@ -1,7 +1,7 @@
 {
   "name": "@hestia/website-showcase",
   "version": "0.1.0",
-  "description": "HestiaLabs Your Showcase website",
+  "description": "HestiaLabs ‹Your Showcase› website",
   "license": "UNLICENSED",
   "author": "Andréas Kündig",
   "contributors": [
@@ -55,12 +55,12 @@
     "node": ">=14",
     "npm": ">=7"
   },
-  "homepage": "https://github.com/hestiaAI/website.showcase",
+  "homepage": "https://github.com/hestia-owner-showcase/website.showcase",
   "bugs": {
-    "url": "https://github.com/hestiaAI/website.showcase/issues"
+    "url": "https://github.com/hestia-owner-showcase/website.showcase/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/hestiaAI/website.showcase.git"
+    "url": "git+https://github.com/hestia-owner-showcase/website.showcase.git"
   }
 }

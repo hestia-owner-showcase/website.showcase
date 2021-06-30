@@ -1,9 +1,9 @@
 ---
 layout: home
 permalink: /fr/index.html
-path: home
 title: Your Showcase
-lead: The community of **Your Showcase**
+path: home
+lead: Créez ici **Votre Vitrine**
 lead_image: /assets/media/home-hero-image.jpg
 lead_image_caption: Photo by [Mary Eineman](https://unsplash.com/@maryeineman)
   on [Unsplash](https://unsplash.com/photos/sQtGjRSOyGk)
