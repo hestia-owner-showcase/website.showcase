@@ -16,7 +16,7 @@ TODO
 
 ## Our plan 
 
-TODO
+T O D O
 
 ## What can you do to help?
 
