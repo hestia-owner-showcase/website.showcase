@@ -1,10 +1,10 @@
 ---
 id: dating-apps-share-your-data
 title: Dating applications share your data
-lead: Find out with whom
 date: 2021-04-08T11:42:06.880Z
 image: /assets/media/blog-editorial-dating-apps-share-your-data.jpg
 image_caption: Illustration by Forbrukerrådet
+lead: Find out with whom
 post_categories:
   - worth-reading
 post_authors:
